@@ -34,8 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasriad&show_icons=true&locale=en&theme=great-gatsby" alt="tasriad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasriad&theme=great-gatsby" alt="tasriad" /></p>
-
 
 <h3 align="left">Activities:</h3>
 ###
