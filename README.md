@@ -45,3 +45,7 @@
 </picture>
 
 ###
+
+<p align='center'>
+  <img src="https://activity-graph.herokuapp.com/graph?username=tasriad&theme=react-dark" >
+</p>
