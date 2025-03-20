@@ -47,5 +47,5 @@
 ###
 
 <p align='center'>
-  <img src="https://activity-graph.herokuapp.com/graph?username=tasriad&theme=react-dark" >
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasriad&theme=high-contrast" >
 </p>
